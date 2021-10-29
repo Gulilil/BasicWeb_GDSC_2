@@ -11,9 +11,7 @@
 .titleRed{
     color:crimson;
 }
-.titlePeach{
-    color:rgb(240, 189, 145);
-}
+
 .center{
     display:flex;
     flex-direction: column;
